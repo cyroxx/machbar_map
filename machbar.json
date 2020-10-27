@@ -908,7 +908,7 @@
          "image":"floortileset.png",
          "imageheight":272,
          "imagewidth":272,
-         "margin":0,
+         "margin":1,
          "name":"floortileset",
          "spacing":2,
          "tilecount":64,
